@@ -1,0 +1,12 @@
+NAPALM INSTALL: 
+
+pip install cryptography
+pip install netmiko
+pip install napalm
+
+PYTHON3 NAPALM INSTALL:
+
+pip3 install -U netmiko
+pip3 install -U napalm
+pip3 install -U simplejson
+
